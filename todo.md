@@ -50,3 +50,7 @@
 ## Logo Integration
 - [x] Add bird logo to pre-loader above "BYRD" text
 - [x] Add bird logo to top-left corner of navigation header
+
+## Logo Transparency
+- [x] Remove background from logo to make it fully transparent
+- [x] Update website with transparent logo version

@@ -23,7 +23,7 @@ export default function Navigation() {
           <Link href="/">
             <a className="flex items-center space-x-3 text-white hover:text-bright-green transition-colors">
               <img 
-                src="/byrd-logo.webp" 
+                src="/byrd-logo.png" 
                 alt="Byrd Consulting Group" 
                 className="w-10 h-10 md:w-12 md:h-12"
               />

@@ -18,7 +18,7 @@ export default function Preloader() {
     <div className={`preloader ${!isLoading ? 'fade-out' : ''}`}>
       <div className="preloader-content">
         <img 
-          src="/byrd-logo.webp" 
+          src="/byrd-logo.png" 
           alt="Byrd Consulting Group Logo" 
           className="w-32 h-32 md:w-40 md:h-40 mx-auto mb-6 animate-pulse"
         />
