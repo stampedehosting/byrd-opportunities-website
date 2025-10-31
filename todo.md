@@ -54,3 +54,7 @@
 ## Logo Transparency
 - [x] Remove background from logo to make it fully transparent
 - [x] Update website with transparent logo version
+
+## Bug Fixes
+- [x] Fix nested anchor tag warning in Navigation component
+- [x] Fix logo pixelation on mobile by increasing resolution

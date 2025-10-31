@@ -20,7 +20,7 @@ export default function Preloader() {
         <img 
           src="/byrd-logo.png" 
           alt="Byrd Consulting Group Logo" 
-          className="w-32 h-32 md:w-40 md:h-40 mx-auto mb-6 animate-pulse"
+          className="w-40 h-40 md:w-48 md:h-48 mx-auto mb-6 animate-pulse"
         />
         <div className="preloader-logo">
           BYRD

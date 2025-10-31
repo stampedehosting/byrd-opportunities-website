@@ -20,20 +20,18 @@ export default function Navigation() {
       <div className="container">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <Link href="/">
-            <a className="flex items-center space-x-3 text-white hover:text-bright-green transition-colors">
-              <img 
-                src="/byrd-logo.png" 
-                alt="Byrd Consulting Group" 
-                className="w-10 h-10 md:w-12 md:h-12"
-              />
-              <div>
-                <div className="text-xl md:text-2xl font-black">BYRD</div>
-                <div className="hidden md:block text-xs font-medium -mt-1">
-                  Consulting Group
-                </div>
+          <Link href="/" className="flex items-center space-x-3 text-white hover:text-bright-green transition-colors">
+            <img 
+              src="/byrd-logo.png" 
+              alt="Byrd Consulting Group" 
+              className="w-12 h-12 md:w-14 md:h-14"
+            />
+            <div>
+              <div className="text-xl md:text-2xl font-black">BYRD</div>
+              <div className="hidden md:block text-xs font-medium -mt-1">
+                Consulting Group
               </div>
-            </a>
+            </div>
           </Link>
 
           {/* Desktop Navigation */}
