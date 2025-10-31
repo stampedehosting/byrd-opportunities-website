@@ -58,3 +58,7 @@
 ## Bug Fixes
 - [x] Fix nested anchor tag warning in Navigation component
 - [x] Fix logo pixelation on mobile by increasing resolution
+
+## Deployment
+- [ ] Create GitHub repository
+- [ ] Push code to GitHub
