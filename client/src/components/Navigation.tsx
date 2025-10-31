@@ -43,6 +43,7 @@ export default function Navigation() {
             <Button 
               variant="default" 
               className="bg-bright-green text-primary-green hover:bg-accent-gold hover:text-primary-green font-bold"
+              onClick={() => window.open('https://www.byrdconsulting.group/appointments', '_blank')}
             >
               Schedule Reveal Session
             </Button>
@@ -75,6 +76,7 @@ export default function Navigation() {
               <Button 
                 variant="default" 
                 className="bg-bright-green text-primary-green hover:bg-accent-gold hover:text-primary-green font-bold w-full"
+                onClick={() => window.open('https://www.byrdconsulting.group/appointments', '_blank')}
               >
                 Schedule Reveal Session
               </Button>

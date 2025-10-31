@@ -57,6 +57,7 @@ export default function OpportunityDetail() {
               <Button 
                 size="lg"
                 className="bg-bright-green text-primary-green hover:bg-accent-gold hover:text-primary-green font-bold"
+                onClick={() => window.open('https://www.byrdconsulting.group/appointments', '_blank')}
               >
                 Schedule Consultation
               </Button>
@@ -173,6 +174,7 @@ export default function OpportunityDetail() {
             <Button 
               size="lg"
               className="bg-white text-primary-green hover:bg-accent-gold hover:text-primary-green font-bold text-lg px-8 py-6"
+              onClick={() => window.open('https://www.byrdconsulting.group/appointments', '_blank')}
             >
               Schedule Consultation
             </Button>

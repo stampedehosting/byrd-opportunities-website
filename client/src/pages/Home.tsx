@@ -41,6 +41,7 @@ export default function Home() {
                 size="lg"
                 variant="outline"
                 className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-primary-green font-bold text-lg px-8 py-6"
+                onClick={() => window.open('https://www.byrdconsulting.group/appointments', '_blank')}
               >
                 Schedule Reveal Session
               </Button>
@@ -146,6 +147,7 @@ export default function Home() {
           <Button 
             size="lg"
             className="bg-white text-primary-green hover:bg-accent-gold hover:text-primary-green font-bold text-lg px-8 py-6"
+            onClick={() => window.open('https://www.byrdconsulting.group/appointments', '_blank')}
           >
             Schedule Your Reveal Session
             <ArrowRight className="ml-2 h-5 w-5" />

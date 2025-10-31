@@ -43,3 +43,6 @@
 - [x] Test cross-browser compatibility
 - [x] Optimize performance and loading times
 - [x] Final QA and bug fixes
+
+## Updates & Changes
+- [x] Update all appointment/consultation buttons to link to https://www.byrdconsulting.group/appointments
