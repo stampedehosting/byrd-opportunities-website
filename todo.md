@@ -46,3 +46,7 @@
 
 ## Updates & Changes
 - [x] Update all appointment/consultation buttons to link to https://www.byrdconsulting.group/appointments
+
+## Logo Integration
+- [x] Add bird logo to pre-loader above "BYRD" text
+- [x] Add bird logo to top-left corner of navigation header
